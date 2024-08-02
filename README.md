@@ -1,2 +1,2 @@
-# AuthenticateAssignment
+# AuthenticateCompany Assignment
 Assignment for Interview
